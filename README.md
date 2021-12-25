@@ -2,10 +2,11 @@
 ## Lis-ça
 
 1. Clone le repo
-2. Download le fichier binaire
-3. Fait ton patente CHMOD pour le rendre executable
-4. Roule le ./{nomduscript}
-5. Tu vas voir la commande à faire
-6. Fais-là.
-
-C'est tout.
+2. Ouvre le dossier dans ton finder
+3. Clique droit sur le fichier main et fait ouvrir (Sinon ça te bloque)
+4. Prends connaissance du help menu
+5. Va dans ton terminal
+6. Roule le script      
+        ```$ ./main lire```
+7. Réponds aux questions du script
+8. C'est tout.
